@@ -1,0 +1,9 @@
+name = "kotcyn"
+compatibility_date = "2024-03-20"
+pages_build_output_dir = ".svelte-kit/cloudflare"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "kotcyn-db"
+database_id = "6105c722-2b61-4c0a-b4d2-a0af0a011663"
+migrations_dir = "./migrations"
